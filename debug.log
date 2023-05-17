@@ -1,0 +1,14 @@
+[2023-05-17 17:20:53,651 main.py-><module>():9] INFO: Registering student details
+[2023-05-17 17:20:53,651 register.py->register_student():22] DEBUG: Successfully added student details
+[2023-05-17 17:20:53,651 main.py-><module>():13] INFO: Updating student registry
+[2023-05-17 17:20:53,651 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-17 17:20:53,651 register.py->register_student():22] DEBUG: Successfully added student details
+[2023-05-17 17:20:53,651 application.py->apply_details():9] DEBUG: Student : <school.student.register.Student object at 0x000001D24F12A6D0>
+[2023-05-17 17:20:53,652 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-17 17:20:53,652 main.py-><module>():16] INFO: Registering teacher details
+[2023-05-17 17:20:53,652 employ.py->register_teacher():22] DEBUG: Successfully added teacher details
+[2023-05-17 17:20:53,652 main.py-><module>():20] INFO: Updating teacher registry
+[2023-05-17 17:20:53,653 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-17 17:20:53,653 employ.py->register_teacher():22] DEBUG: Successfully added teacher details
+[2023-05-17 17:20:53,653 application.py->apply_details():12] DEBUG: Teacher : <school.teacher.employ.Teacher object at 0x000001D24F443E50>
+[2023-05-17 17:20:53,653 registry.py->update_registry():13] DEBUG: Successfully updated registry
