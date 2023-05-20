@@ -12,3 +12,192 @@
 [2023-05-17 17:20:53,653 employ.py->register_teacher():22] DEBUG: Successfully added teacher details
 [2023-05-17 17:20:53,653 application.py->apply_details():12] DEBUG: Teacher : <school.teacher.employ.Teacher object at 0x000001D24F443E50>
 [2023-05-17 17:20:53,653 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:43:56,494 main.py-><module>():12] INFO: Registering student S1 details
+[2023-05-20 19:43:56,495 register.py->register_student():24] DEBUG: Successfully added student details
+[2023-05-20 19:43:56,495 main.py-><module>():16] INFO: Updating student registry
+[2023-05-20 19:43:56,495 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:43:56,496 register.py->register_student():24] DEBUG: Successfully added student details
+[2023-05-20 19:43:56,496 application.py->apply_details():9] DEBUG: Student : <school.student.register.Student object at 0x000001912B459B10>
+[2023-05-20 19:43:56,496 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:43:56,497 main.py-><module>():23] INFO: Registering student S2 details
+[2023-05-20 19:43:56,497 register.py->register_student():24] DEBUG: Successfully added student details
+[2023-05-20 19:43:56,497 main.py-><module>():27] INFO: Updating student registry
+[2023-05-20 19:43:56,497 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:43:56,498 register.py->register_student():24] DEBUG: Successfully added student details
+[2023-05-20 19:43:56,498 application.py->apply_details():9] DEBUG: Student : <school.student.register.Student object at 0x000001912B459B10>
+[2023-05-20 19:43:56,498 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:43:56,498 main.py-><module>():31] INFO: Registering teacher T1 details
+[2023-05-20 19:43:56,499 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:43:56,499 main.py-><module>():35] INFO: Updating teacher registry
+[2023-05-20 19:43:56,499 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:43:56,499 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:43:56,499 application.py->apply_details():12] DEBUG: Teacher : <school.teacher.employ.Teacher object at 0x000001912AE542D0>
+[2023-05-20 19:43:56,500 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:43:56,500 main.py-><module>():42] INFO: Registering teacher T2 details
+[2023-05-20 19:43:56,501 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:43:56,501 main.py-><module>():46] INFO: Updating teacher registry
+[2023-05-20 19:43:56,501 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:43:56,501 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:43:56,502 application.py->apply_details():12] DEBUG: Teacher : <school.teacher.employ.Teacher object at 0x000001912AE542D0>
+[2023-05-20 19:43:56,502 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:44:43,689 main.py-><module>():12] INFO: Registering student S1 details
+[2023-05-20 19:44:43,690 register.py->register_student():24] DEBUG: Successfully added student details
+[2023-05-20 19:44:43,690 main.py-><module>():16] INFO: Updating student registry
+[2023-05-20 19:44:43,691 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:44:43,691 register.py->register_student():24] DEBUG: Successfully added student details
+[2023-05-20 19:44:43,691 application.py->apply_details():9] DEBUG: Student : <school.student.register.Student object at 0x00000230AD95BF50>
+[2023-05-20 19:44:43,691 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:44:43,692 main.py-><module>():23] INFO: Registering student S2 details
+[2023-05-20 19:44:43,692 register.py->register_student():24] DEBUG: Successfully added student details
+[2023-05-20 19:44:43,692 main.py-><module>():27] INFO: Updating student registry
+[2023-05-20 19:44:43,693 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:44:43,693 register.py->register_student():24] DEBUG: Successfully added student details
+[2023-05-20 19:44:43,693 application.py->apply_details():9] DEBUG: Student : <school.student.register.Student object at 0x00000230AD3542D0>
+[2023-05-20 19:44:43,693 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:44:43,694 main.py-><module>():31] INFO: Registering teacher T1 details
+[2023-05-20 19:44:43,694 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:44:43,694 main.py-><module>():35] INFO: Updating teacher registry
+[2023-05-20 19:44:43,695 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:44:43,695 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:44:43,695 application.py->apply_details():12] DEBUG: Teacher : <school.teacher.employ.Teacher object at 0x00000230AD95B190>
+[2023-05-20 19:44:43,695 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:44:43,696 main.py-><module>():42] INFO: Registering teacher T2 details
+[2023-05-20 19:44:43,696 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:44:43,696 main.py-><module>():46] INFO: Updating teacher registry
+[2023-05-20 19:44:43,696 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:44:43,696 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:44:43,697 application.py->apply_details():12] DEBUG: Teacher : <school.teacher.employ.Teacher object at 0x00000230AD95B190>
+[2023-05-20 19:44:43,697 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:54:29,939 main.py-><module>():13] INFO: Registering student S1 details
+[2023-05-20 19:54:29,939 register.py->register_student():24] DEBUG: Successfully added student details
+[2023-05-20 19:54:29,940 main.py-><module>():17] INFO: Updating student registry
+[2023-05-20 19:54:29,940 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:54:29,940 register.py->register_student():24] DEBUG: Successfully added student details
+[2023-05-20 19:54:29,940 application.py->apply_details():9] DEBUG: Student : <school.student.register.Student object at 0x0000026A0AC95850>
+[2023-05-20 19:54:29,940 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:54:29,941 main.py-><module>():25] INFO: Registering student S2 details
+[2023-05-20 19:54:29,941 register.py->register_student():24] DEBUG: Successfully added student details
+[2023-05-20 19:54:29,941 main.py-><module>():29] INFO: Updating student registry
+[2023-05-20 19:54:29,941 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:54:29,941 register.py->register_student():24] DEBUG: Successfully added student details
+[2023-05-20 19:54:29,941 application.py->apply_details():9] DEBUG: Student : <school.student.register.Student object at 0x0000026A0AD5F5D0>
+[2023-05-20 19:54:29,941 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:54:29,942 main.py-><module>():34] INFO: Registering teacher T1 details
+[2023-05-20 19:54:29,942 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:54:29,942 main.py-><module>():38] INFO: Updating teacher registry
+[2023-05-20 19:54:29,942 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:54:29,942 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:54:29,942 application.py->apply_details():12] DEBUG: Teacher : <school.teacher.employ.Teacher object at 0x0000026A0AD58190>
+[2023-05-20 19:54:29,943 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:54:29,943 main.py-><module>():46] INFO: Registering teacher T2 details
+[2023-05-20 19:54:29,943 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:54:29,943 main.py-><module>():50] INFO: Updating teacher registry
+[2023-05-20 19:54:29,943 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:54:29,943 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:54:29,943 application.py->apply_details():12] DEBUG: Teacher : <school.teacher.employ.Teacher object at 0x0000026A0AD58190>
+[2023-05-20 19:54:29,944 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:54:29,944 main.py-><module>():58] INFO: Registering teacher T3 details
+[2023-05-20 19:54:29,944 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:54:29,945 main.py-><module>():62] INFO: Updating teacher registry
+[2023-05-20 19:54:29,945 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:54:29,945 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:54:29,945 application.py->apply_details():12] DEBUG: Teacher : <school.teacher.employ.Teacher object at 0x0000026A0AD58190>
+[2023-05-20 19:54:29,946 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:55:13,765 main.py-><module>():13] INFO: Registering student S1 details
+[2023-05-20 19:55:13,765 register.py->register_student():24] DEBUG: Successfully added student details
+[2023-05-20 19:55:13,766 main.py-><module>():17] INFO: Updating student registry
+[2023-05-20 19:55:13,766 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:55:13,766 register.py->register_student():24] DEBUG: Successfully added student details
+[2023-05-20 19:55:13,766 application.py->apply_details():9] DEBUG: Student : <school.student.register.Student object at 0x0000024547695890>
+[2023-05-20 19:55:13,766 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:55:13,767 main.py-><module>():25] INFO: Registering student S2 details
+[2023-05-20 19:55:13,767 register.py->register_student():24] DEBUG: Successfully added student details
+[2023-05-20 19:55:13,767 main.py-><module>():29] INFO: Updating student registry
+[2023-05-20 19:55:13,767 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:55:13,767 register.py->register_student():24] DEBUG: Successfully added student details
+[2023-05-20 19:55:13,767 application.py->apply_details():9] DEBUG: Student : <school.student.register.Student object at 0x00000245471FAF50>
+[2023-05-20 19:55:13,768 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:55:13,768 main.py-><module>():34] INFO: Registering teacher T1 details
+[2023-05-20 19:55:13,768 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:55:13,768 main.py-><module>():38] INFO: Updating teacher registry
+[2023-05-20 19:55:13,768 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:55:13,768 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:55:13,769 application.py->apply_details():12] DEBUG: Teacher : <school.teacher.employ.Teacher object at 0x00000245471FAF50>
+[2023-05-20 19:55:13,769 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:55:13,769 main.py-><module>():46] INFO: Registering teacher T2 details
+[2023-05-20 19:55:13,769 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:55:13,769 main.py-><module>():50] INFO: Updating teacher registry
+[2023-05-20 19:55:13,769 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:55:13,769 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:55:13,770 application.py->apply_details():12] DEBUG: Teacher : <school.teacher.employ.Teacher object at 0x000002454775BD90>
+[2023-05-20 19:55:13,770 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:55:13,770 main.py-><module>():60] INFO: Registering teacher T3 details
+[2023-05-20 19:55:13,772 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:55:13,772 main.py-><module>():64] INFO: Updating teacher registry
+[2023-05-20 19:55:13,772 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:55:13,772 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:55:13,772 application.py->apply_details():12] DEBUG: Teacher : <school.teacher.employ.Teacher object at 0x000002454775BD90>
+[2023-05-20 19:55:13,772 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:55:25,310 main.py-><module>():13] INFO: Registering student S1 details
+[2023-05-20 19:55:25,310 register.py->register_student():24] DEBUG: Successfully added student details
+[2023-05-20 19:55:25,311 main.py-><module>():17] INFO: Updating student registry
+[2023-05-20 19:55:25,311 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:55:25,311 register.py->register_student():24] DEBUG: Successfully added student details
+[2023-05-20 19:55:25,311 application.py->apply_details():9] DEBUG: Student : <school.student.register.Student object at 0x000001D316AE5890>
+[2023-05-20 19:55:25,311 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:55:25,311 main.py-><module>():25] INFO: Registering student S2 details
+[2023-05-20 19:55:25,312 register.py->register_student():24] DEBUG: Successfully added student details
+[2023-05-20 19:55:25,312 main.py-><module>():29] INFO: Updating student registry
+[2023-05-20 19:55:25,312 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:55:25,312 register.py->register_student():24] DEBUG: Successfully added student details
+[2023-05-20 19:55:25,312 application.py->apply_details():9] DEBUG: Student : <school.student.register.Student object at 0x000001D3168EAF50>
+[2023-05-20 19:55:25,312 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:55:25,312 main.py-><module>():34] INFO: Registering teacher T1 details
+[2023-05-20 19:55:25,313 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:55:25,313 main.py-><module>():38] INFO: Updating teacher registry
+[2023-05-20 19:55:25,313 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:55:25,313 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:55:25,313 application.py->apply_details():12] DEBUG: Teacher : <school.teacher.employ.Teacher object at 0x000001D3168EAF50>
+[2023-05-20 19:55:25,313 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:55:25,313 main.py-><module>():46] INFO: Registering teacher T2 details
+[2023-05-20 19:55:25,314 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:55:25,314 main.py-><module>():50] INFO: Updating teacher registry
+[2023-05-20 19:55:25,314 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:55:25,314 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:55:25,314 application.py->apply_details():12] DEBUG: Teacher : <school.teacher.employ.Teacher object at 0x000001D316E5BD90>
+[2023-05-20 19:55:25,314 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:55:25,314 main.py-><module>():60] INFO: Registering teacher T3 details
+[2023-05-20 19:55:25,315 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:55:25,315 main.py-><module>():64] INFO: Updating teacher registry
+[2023-05-20 19:55:25,315 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:55:25,315 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:55:25,316 application.py->apply_details():12] DEBUG: Teacher : <school.teacher.employ.Teacher object at 0x000001D316E5BD90>
+[2023-05-20 19:55:25,316 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:58:56,923 main.py-><module>():13] INFO: Registering student S1 details
+[2023-05-20 19:58:56,923 register.py->register_student():24] DEBUG: Successfully added student details
+[2023-05-20 19:58:56,923 main.py-><module>():17] INFO: Updating student registry
+[2023-05-20 19:58:56,923 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:58:56,923 register.py->register_student():24] DEBUG: Successfully added student details
+[2023-05-20 19:58:56,924 application.py->apply_details():9] DEBUG: Student : <school.student.register.Student object at 0x0000029B7A20FAD0>
+[2023-05-20 19:58:56,925 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:58:56,926 main.py-><module>():25] INFO: Registering student S2 details
+[2023-05-20 19:58:56,926 register.py->register_student():24] DEBUG: Successfully added student details
+[2023-05-20 19:58:56,926 main.py-><module>():29] INFO: Updating student registry
+[2023-05-20 19:58:56,926 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:58:56,926 register.py->register_student():24] DEBUG: Successfully added student details
+[2023-05-20 19:58:56,926 application.py->apply_details():9] DEBUG: Student : <school.student.register.Student object at 0x0000029B7A25B310>
+[2023-05-20 19:58:56,927 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:58:56,927 main.py-><module>():34] INFO: Registering teacher T1 details
+[2023-05-20 19:58:56,927 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:58:56,927 main.py-><module>():38] INFO: Updating teacher registry
+[2023-05-20 19:58:56,928 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:58:56,928 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:58:56,928 application.py->apply_details():12] DEBUG: Teacher : <school.teacher.employ.Teacher object at 0x0000029B7A25B310>
+[2023-05-20 19:58:56,929 registry.py->update_registry():13] DEBUG: Successfully updated registry
+[2023-05-20 19:58:56,929 main.py-><module>():46] INFO: Registering teacher T2 details
+[2023-05-20 19:58:56,929 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:58:56,929 main.py-><module>():50] INFO: Updating teacher registry
+[2023-05-20 19:58:56,929 application.py->apply_details():6] INFO: Applying details to Registry
+[2023-05-20 19:58:56,929 employ.py->register_teacher():24] DEBUG: Successfully added teacher details
+[2023-05-20 19:58:56,929 application.py->apply_details():12] DEBUG: Teacher : <school.teacher.employ.Teacher object at 0x0000029B7A25B950>
+[2023-05-20 19:58:56,929 registry.py->update_registry():13] DEBUG: Successfully updated registry

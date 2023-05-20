@@ -11,6 +11,8 @@ class Teacher:
 
     def display(self):
         print(f"Profile :\nName - {self.name}\nAge - {self.age}")
+        # accessing class variable using class name
+        print(f"School name : {Teacher.school_name}")
 
     @classmethod
     def change_school(cls, new_school):
